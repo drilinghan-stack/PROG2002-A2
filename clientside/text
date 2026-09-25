@@ -1,0 +1,10 @@
+clientside\
+├── index.html       (home page)
+├── search.html      (search page)
+├── event.html       (Details Page)
+├── css\
+│   └── style.css
+└── js\
+    ├── home.js
+    ├── search.js
+    └── event.js
